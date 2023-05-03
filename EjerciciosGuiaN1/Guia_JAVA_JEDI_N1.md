@@ -60,6 +60,8 @@ edades.
 otro espacio de memoria realice la conversión de esas libras a kilogramos. Utilice
 una constante de los valores que no van a cambiar en esta conversión. Muestre el
 resultado por pantalla
+
+
 Ejercicios nivel : Caballero JAVA JEDI
 1. Obtener porcentaje : Dados dos números, uno real y el otro entero. Obtenga el
 porcentaje que indique el segundo número del primer número.
