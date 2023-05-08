@@ -9,5 +9,6 @@ public class Ejercicio_5 {
         double pesoLibras = sc.nextDouble();
         double pesoKilogramos = pesoLibras*0.45;
         System.out.println("Peso en kilogramos: "+pesoKilogramos);
+        sc.close();
     }
 }
