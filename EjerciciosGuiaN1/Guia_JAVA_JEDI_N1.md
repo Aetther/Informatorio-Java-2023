@@ -47,7 +47,7 @@ Ejercicios nivel : Padawan JAVA JEDI
 incremente dicho número 20 veces sin usar asignación. ¿Que operador podría usar
 para hacerlo?
 2. Descontador: Se le solicita que guarde un número en un espacio de memoria y
-discretamente dicho número 20 veces sin usar asignación. ¿Que operador podría
+decremente dicho número 20 veces sin usar asignación. ¿Que operador podría
 usar para hacerlo?
 3. Caracteres : Guarde en distintos espacios de memoria los caracteres de su nombre
 en unicode y luego imprimirlos por pantalla. ¿Por qué no puede usar "" en el char?
