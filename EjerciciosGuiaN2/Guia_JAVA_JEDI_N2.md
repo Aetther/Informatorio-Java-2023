@@ -39,21 +39,21 @@ números enteros positivos que sean divisibles por 7 y que sean menores que 100.
 6. Y mas… sumas! : Realizar un programa donde se guarde un número entero en una
 variable y que imprima por pantalla el resultado de la suma de todos los números
 enteros desde 1 hasta ese número.
-8. Mis amigos y su edad: Guarda en variables el nombre de N cantidad de amigos,
+7. Mis amigos y su edad: Guarda en variables el nombre de N cantidad de amigos,
 itere sobre esa cantidad luego muestre el nombre de cada amigo si y sólo si este
 amigo es mayor de edad, en caso de ser menor de edad imprima un mensaje
 diciendole a ese amigo porque no lo muestra por pantalla.
-9. Menú de opciones : Realice un menú de opciones, donde la opción se guarde en
+8. Menú de opciones : Realice un menú de opciones, donde la opción se guarde en
 una variable (Sin pedir por teclado), muestre la opción elegida y fuerce su salida
 bucle.
-10. Menú de opciones parte 2: Realice un menú de opciones con bucle WHILE, donde
+9. Menú de opciones parte 2: Realice un menú de opciones con bucle WHILE, donde
 la opción se guarde en una variable (Sin pedir por teclado), muestre la opción
 elegida y fuerce su salida bucle.
-11. Los equipos ganadores : Guarde en variables el nombre de 2 equipos de fútbol,
+10. Los equipos ganadores : Guarde en variables el nombre de 2 equipos de fútbol,
 luego en otras 2 variables el nombre de los entrenadores y luego guarde el nombre
 de los jugadores en distintas variables. Luego muestre un encabezado con el
 nombre de cada equipo y por cada equipo muestre los nombres de los jugadores.
-12. Yo elijo el equipo ganador : Modifique el ejercicio anterior en donde usted debe
+11. Yo elijo el equipo ganador : Modifique el ejercicio anterior en donde usted debe
 crear un menú de opciones en donde en ese menú de opciones debe elegir qué
 equipo de fútbol quiere saber la información del el ejercicio 11.
 
