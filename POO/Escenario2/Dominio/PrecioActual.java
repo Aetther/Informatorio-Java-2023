@@ -1,0 +1,42 @@
+package POO.Escenario2.Dominio;
+
+import java.time.LocalDateTime;
+
+public class PrecioActual {
+    //su valor, la fecha y hora en la que fue cargado
+
+    private double valor;
+    private LocalDateTime fechaDeCarga;
+
+    public double getValor() {
+        return valor;
+    }
+
+    public void setValor(double valor) {
+        this.valor = valor;
+    }
+
+    public LocalDateTime getFechaDeCarga() {
+        return fechaDeCarga;
+    }
+
+    public void setFechaDeCarga(LocalDateTime fechaDeCarga) {
+        this.fechaDeCarga = fechaDeCarga;
+    }
+
+    public PrecioActual(double valor, LocalDateTime fechaDeCarga) {
+        this.valor = valor;
+        this.fechaDeCarga = fechaDeCarga;
+    }
+
+    public PrecioActual() {
+    }
+
+    @Override
+    public String toString() {
+        return "PrecioActual{" +
+                "valor=" + valor +
+                ", fechaDeCarga=" + fechaDeCarga +
+                '}';
+    }
+}
